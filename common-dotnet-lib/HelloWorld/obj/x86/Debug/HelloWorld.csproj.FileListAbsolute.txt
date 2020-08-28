@@ -1,0 +1,5 @@
+/home/dgb/Projects/Designs/HelloWorld/bin/Debug/HelloWorld.dll
+/home/dgb/Projects/Designs/HelloWorld/bin/Debug/HelloWorld.pdb
+/home/dgb/Projects/Designs/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/home/dgb/Projects/Designs/HelloWorld/obj/x86/Debug/HelloWorld.dll
+/home/dgb/Projects/Designs/HelloWorld/obj/x86/Debug/HelloWorld.pdb
