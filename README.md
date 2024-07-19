@@ -29,7 +29,7 @@ Its best to run these with npm-cli.
 ## Builder
 Lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
-## Decirator
+## Decorator
 Lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
 ## Observer
